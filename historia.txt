@@ -1,5 +1,4 @@
-Esta es la Historia de Eduardo Acevedo
-Eduardo tiene 28 años y crecio en Hidalgo,
- vivendo en México
+Esta es la Historia de Eduardo
+Quien está aprendiendo desarrollo web.
 
-Hoy hablaremos de su vida y obra maestra.
+Mañana nos enfocaremos en su vida laboral..
