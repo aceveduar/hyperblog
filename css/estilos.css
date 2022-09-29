@@ -39,3 +39,8 @@ body {
 #post {
     padding: 1em;
 }
+
+p span {
+    color: brown;
+    
+}
