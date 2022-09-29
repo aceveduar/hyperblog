@@ -41,6 +41,7 @@ body {
 }
 
 p span {
-    color: brown;
+    color: rgb(185, 0, 139);
+    padding: 10px;
     
 }
